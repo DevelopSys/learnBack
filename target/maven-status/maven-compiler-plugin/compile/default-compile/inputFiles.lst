@@ -1,0 +1,9 @@
+/Users/borja/Downloads/documentsAPP/src/main/java/com/example/documentsAPP/AppGeneratorApplication.java
+/Users/borja/Downloads/documentsAPP/src/main/java/com/example/documentsAPP/controller/AuthController.java
+/Users/borja/Downloads/documentsAPP/src/main/java/com/example/documentsAPP/controller/ProtectedController.java
+/Users/borja/Downloads/documentsAPP/src/main/java/com/example/documentsAPP/model/User.java
+/Users/borja/Downloads/documentsAPP/src/main/java/com/example/documentsAPP/repository/UserRepository.java
+/Users/borja/Downloads/documentsAPP/src/main/java/com/example/documentsAPP/security/JwtAuthenticationFilter.java
+/Users/borja/Downloads/documentsAPP/src/main/java/com/example/documentsAPP/security/JwtUtil.java
+/Users/borja/Downloads/documentsAPP/src/main/java/com/example/documentsAPP/security/SecurityConfig.java
+/Users/borja/Downloads/documentsAPP/src/main/java/com/example/documentsAPP/service/UserService.java
