@@ -50,6 +50,31 @@ public class PracticeController {
     @Autowired
     private Anexo9DocxService anexo9DocxService;
 
+    @Autowired
+    private GmailService gmailService;
+
+    @Autowired
+    private Anexo4ConvenioDocxService anexo4Service;
+
+    @Autowired
+    private Anexo6DocxService anexo6Service;
+
+    @Autowired
+    private Anexo8DocxService anexo8Service;
+
+    @Autowired
+    private Anexo9DocxService anexo9Service;
+
+    @Autowired
+    private ConvenioAnexo4DataBuilder anexo4DataBuilder;
+
+    @Autowired
+    private ConvenioAnexoDataBuilder anexoDataBuilder;
+
+
+
+
+
     // ─────────────────────────────────────────────────────────────────────
     // ANEXO 4 — Relación de alumnos
     // ─────────────────────────────────────────────────────────────────────
